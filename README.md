@@ -64,3 +64,8 @@ The mongoose.connect() method is a function provided by the Mongoose library in 
     console.log("Port started")
   })
 ```
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@telugusoftwarehub)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/softwarehubtelugu/)
+
